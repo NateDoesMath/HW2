@@ -1,0 +1,74 @@
+
+/* Styling and shit */
+.jumbotron {
+	background-color: #457b9d;
+	color: white;
+	opacity: 0.6;
+}
+
+.card-header {
+	background-color: #457b9d;
+	color: white;
+}
+
+.card-body li {
+	list-style: none;
+}
+
+.card-body {
+	background-color: #aed9e0;
+}
+
+.btn-primary {
+    background-color:  #023e7d;
+    border-color: #277da1;
+}
+.btn-primary:hover {
+	background-color: #001233;
+    border-color: #0353a4;
+}
+
+
+header, main, nav, footer {
+    text-align: center;
+}
+
+body {
+	background-image: url("../img/halo.png");
+	background-size: cover;
+}
+
+footer {
+	margin-top: 10rem;
+	background-color: #457b9d;
+	color: white;
+	opacity: 0.3;
+}
+
+footer a {
+	color: #457b9d;
+}
+
+img {
+	border-radius: 100px;
+	background-color: bisque;
+}
+
+#bet {
+	margin-top: 5rem;
+}
+
+#bet button {
+	margin-top: 1rem;
+}
+
+#results {
+	margin-top: 1.5rem;
+	font-size: 25px;
+}
+#winnings {
+	margin-top: 5px;
+	font-size: 30px;
+	font-weight: bold;
+	color: white;
+}
